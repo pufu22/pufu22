@@ -1,5 +1,7 @@
 # **Hi, I'm Jude Vensil Braceros**
 
+
+
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=github)](https://github.com/pufu22)
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pufu22/)
 
@@ -13,10 +15,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##Technologies I'm familiar with
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ##Currently learning
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
