@@ -4,7 +4,7 @@
 
 ## CS student at University of Padova
 
-![My octocat](https://github.com/pufu22/pufu22/blob/main/images/octocat-1677950293723.png)
+![My octocat](https://github.com/pufu22/pufu22/blob/main/images/octocat-1677950293723.png){width=250}
 
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=github)](https://github.com/pufu22)
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pufu22/)
