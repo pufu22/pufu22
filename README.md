@@ -1,7 +1,5 @@
 # **Hi, I'm Jude Vensil Braceros**
 
-## *I have an*
-
 ## CS student at University of Padova
 
 ![My octocat](https://github.com/pufu22/pufu22/blob/main/images/octocat-1677950293723.png)
