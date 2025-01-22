@@ -1,8 +1,6 @@
 # **Hi, I'm Jude Vensil Braceros**
 
-## CS student at University of Padova
-
-![My octocat](https://github.com/pufu22/pufu22/blob/main/images/octocat-1677950293723.png)
+## Computer Science Graduate, University of Padova (Class of 2024)
 
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=github)](https://github.com/pufu22)
 [![](https://img.shields.io/badge/-@pufu22-%23181717?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pufu22/)
